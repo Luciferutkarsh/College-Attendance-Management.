@@ -2,7 +2,7 @@
 
 
 ### Owner
-<a href="https://luciferutkarsh.ml"><img src="https://avatars.githubusercontent.com/luciferutkarsh" height="50px" width="50px" alt=""/></a>
+<a href="https://www.luciferutkarsh.ml"><img src="https://avatars.githubusercontent.com/luciferutkarsh" height="50px" width="50px" alt=""/></a>
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
